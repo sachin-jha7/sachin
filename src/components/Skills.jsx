@@ -9,7 +9,7 @@ export default function Skills() {
                 <div className="tech-box">
                     <div>
                         <p className="tech-type-heading">Backend</p>
-                        <p className="tech-name">&gt; NodeJS, ExpressJS, Socket.IO, WebRTC.</p>
+                        <p className="tech-name">&gt; NodeJS, ExpressJS, Mongoose, Socket.IO, WebRTC, WebSockets.</p>
                     </div>
                     <div>
                         <p className="tech-type-heading">Database</p>
@@ -22,6 +22,10 @@ export default function Skills() {
                     <div>
                         <p className="tech-type-heading">Tools</p>
                         <p className="tech-name">&gt; Git/GitHub, Visual Studio Code.</p>
+                    </div>
+                    <div>
+                        <p className="tech-type-heading">Deployment</p>
+                        <p className="tech-name">&gt; Render, Vercel, Netlify.</p>
                     </div>
                 </div>
             </div>
