@@ -20,7 +20,7 @@ const data = [
         videoUrl: "https://res.cloudinary.com/deyxycgxp/video/upload/v1787472498/e-commerce-tech-web_ux58u2.mp4",
         about: "Full-stack e-commerce platform with authentication and product management.",
         techStack: ["React JS", "Express JS", "MongoDb", "Node JS", "JWT-auth", "bcryptjs"],
-        siteLink: "https://tech-crt.netlify.app/",
+        siteLink: "https://shop-hub-sepia.vercel.app/",
         repoLink: "https://github.com/sachin-jha7/shopHub.git"
     },
     {
