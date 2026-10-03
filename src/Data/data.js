@@ -16,12 +16,12 @@ const data = [
         repoLink: "https://github.com/sachin-jha7/chat-server.git"
     },
     {
-        name: "Tech Cart",
-        videoUrl: "https://res.cloudinary.com/deyxycgxp/video/upload/v1787472498/e-commerce-tech-web_ux58u2.mp4",
+        name: "TechMitra",
+        videoUrl: "https://res.cloudinary.com/deyxycgxp/video/upload/v1791028267/techMitra_edited_version_moh4cf.mp4",
         about: "Full-stack e-commerce platform with authentication and product management.",
-        techStack: ["React JS", "Express JS", "MongoDb", "Node JS", "JWT-auth", "bcryptjs"],
-        siteLink: "https://shop-hub-sepia.vercel.app/",
-        repoLink: "https://github.com/sachin-jha7/shopHub.git"
+        techStack: ["React JS", "Express JS", "MongoDb", "Node JS", "JWT-auth", "bcryptjs", "Redis", "Razorpay", "NodeMailer"],
+        siteLink: "https://tech-mitra-dun.vercel.app/",
+        repoLink: "https://github.com/sachin-jha7/tech-mitra.git"
     },
     {
         name: "Photo Editor",
